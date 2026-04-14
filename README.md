@@ -1,5 +1,5 @@
 # SpeedAI科研小助手
-SpeedAI科研小助手官网地址为[https://kuaipaper.com](https://kuaipaper.com)，国际站点为[https://speedai.fun](https://speedai.fun)，海外站点为[https://paperspeed.ai](https://paperspeed.ai)。可降重、降AI，知网、维普、格子达、大雅、Turnitin都可以降低至10%左右。
+SpeedAI科研小助手官网地址为[https://speedai.com](https://speedai.com)，国际站点为[https://speedai.fun](https://speedai.fun)，海外站点为[https://paperspeed.ai](https://paperspeed.ai)。可降重、降AI，知网、维普、格子达、大雅、Turnitin都可以降低至10%左右。
 
 由北航顶尖硕博团队倾力研发！
 
